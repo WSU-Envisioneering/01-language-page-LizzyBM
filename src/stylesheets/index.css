@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(14, 67, 47);}
+h1{
+background-color: rgb(167, 195, 166);
+    color: rgb(58, 68, 76);
+    padding: 1em 2em 1em 2em;
+    text-align: center;
+border-radius: 5em;
+}
+*{
+    margin: 1;
+    padding: 0;
+    color: rgb(98, 95, 57);
+
+}
+a{
+color: rgb(126, 117, 85);
+}
+body{
+    background-image: url(/photo-1542273917363-3b1817f69a2d\ \(1\).jpg);
+background-size: cover;
+    font-size: 100%;
+
+}
+h2{
+    color: rgb(116, 91, 65);
+border: 8em;
+}
+p{
+    max-width: 55%;
+}
+a:hover{
+    color: rgb(43, 33, 94);
+}
+

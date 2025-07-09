@@ -1,0 +1,42 @@
+html{background-image:url(/360_F_491224085_CxIX0wE0okzNaBuzWkmGJHdMvBQq3zUt.jpg);
+background-size: cover;}
+section{background-color: rgb(149, 112, 165);
+padding: 1em 2em 1em 2em;
+    text-align: center;
+border-radius: 2em;
+border-style: double;
+border-color: rgb(239, 239, 239);
+border-width: 6px;
+}
+ul,ol{
+    background-color: rgb(156, 83, 168);
+    border-style: double;
+border-width: 10px;
+width:30%;
+padding: 1em 2em 1em 2em;
+    text-align: center;
+border-radius: 2em;
+}
+p{
+    color: rgb(194, 148, 222);
+}
+img{
+    border-style: double;
+border-width: 8px;
+width:25%;
+border-color: rgb(239, 239, 239);}
+H3{
+    color:rgb(239, 239, 239);
+}
+h1{
+    color:rgb(239, 239, 239);
+}
+a{
+     color:rgb(239, 239, 239);
+}
+a:hover{
+    color: rgb(9, 80, 48);
+}
+body{
+    font-size: 100%;
+}
